@@ -1,11 +1,16 @@
-﻿[![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
+﻿# [NVIDIA](https://github.com/tfzoo/NVIDIA) 
 
-# [NVIDIA](https://github.com/tfzoo/NVIDIA) 
+英伟达GPU加速模型
 
+[![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
+
+#### 更多关于：[tensorflow zoo](https://github.com/tfzoo/whyme)可访问 www.tfzoo.com
+
+---
 
 ## 简介
 
-适用于英伟达并行处理器
+
 
 ---
 
@@ -15,6 +20,7 @@
 
 ---
 
+###  www.tfzoo.com  |   qitas@qitas.cn
 
 
 
