@@ -1,6 +1,6 @@
 ﻿# [NVIDIA Jetson](https://github.com/tfzoo/Jetson) 
 
-英伟达Jetson嵌入式加速设备
+英伟达Jetson嵌入式AI加速设备
 
 [![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
 
