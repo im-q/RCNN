@@ -5,7 +5,7 @@
 英伟达Jetson嵌入式计算板卡
 
 * [Jetson硬件参考](https://github.com/sochub/Jetson)  
-* [Jetson营运参考](https://github.com/dusty-nv)  
+* [Jetson应用参考](https://github.com/dusty-nv)  
 
 ###  www.tfzoo.com
 
