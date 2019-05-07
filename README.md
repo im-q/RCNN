@@ -1,4 +1,4 @@
-﻿# [NVIDIA Jetson](https://github.com/tfzoo/Jetson) 
+﻿# [Jetson SDK](https://github.com/tfzoo/JetPack) 
 #### qitas@qitas.cn
 [![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
 
